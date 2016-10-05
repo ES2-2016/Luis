@@ -4,3 +4,7 @@
 	#TAP_Luis.odt (Termo de Abertura do sistema HemoSystem)
 
 	#PGP_Luis.odt, encontra-se o plano de gerenciamento de projeto.
+       
+        #DE_Luís.odt: Documento referente a declaração de escopo do projeto.
+		
+	#EAP_Luis.odt: Documento referente ao EAP do projeto, e um diretório contendo a imagem EAP da primeira entrega.
