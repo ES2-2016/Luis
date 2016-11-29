@@ -1,10 +1,18 @@
 
-#Pasta dedicada aos documentos do projeto, são eles:
+#Pasta Raiz contendo as subpastas dedicadas aos documentos do projeto, que são:
 
 	#TAP_Luis.odt (Termo de Abertura do sistema HemoSystem)
 
 	#PGP_Luis.odt, encontra-se o plano de gerenciamento de projeto.
        
-        #DE_Luís.odt: Documento referente a declaração de escopo do projeto.
+        #DE_Luís_P1.odt: Documento referente a declaração de escopo da primeira entrega do projeto.
+	
+	#DE_Luís_P2.odt: Documento referente a declaração de escopo da segunda entrega do projeto.
+	
+	#DE_Luís_P3.odt: Documento referente a declaração de escopo da terceira entrega do projeto.
 		
-	#EAP_Luis.odt: Documento referente ao EAP do projeto, e um diretório contendo a imagem EAP da primeira entrega.
+	#EAP_Luis_P1.odt: Documento referente ao EAP da primeira entrega do projeto, e um diretório contendo a imagem EAP da primeira entrega.
+	
+	#EAP_Luis_P2.odt: Documento referente ao EAP da segunda entrega do projeto, e um diretório contendo a imagem EAP da primeira entrega.
+	
+	#EAP_Luis_P3.odt: Documento referente ao EAP da terceira entrega do projeto, e um diretório contendo a imagem EAP da primeira entrega.
